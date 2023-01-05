@@ -1,0 +1,26 @@
+Arrived at day 29 of 29 
+Total Prod : 237.400000 avg/day : 7.913333 avgtotprod/eol : 11.870000 sigmatotalprodofeol : 0.718749 
+Rankofeolnumber i worst->best 
+[ 11  2  3  4  8  9  18  14  7  0  1  5  12  13  17  19  16  15  10  6 ] 
+EOL 0, Totalprod : 12.050000, TotalParticipation : 5.075821 pourcents 
+EOL 1, Totalprod : 12.050000, TotalParticipation : 5.075821 pourcents 
+EOL 2, Totalprod : 10.650000, TotalParticipation : 4.486099 pourcents 
+EOL 3, Totalprod : 10.800000, TotalParticipation : 4.549284 pourcents 
+EOL 4, Totalprod : 11.350000, TotalParticipation : 4.780960 pourcents 
+EOL 5, Totalprod : 12.150000, TotalParticipation : 5.117944 pourcents 
+EOL 6, Totalprod : 12.800000, TotalParticipation : 5.391744 pourcents 
+EOL 7, Totalprod : 11.950000, TotalParticipation : 5.033698 pourcents 
+EOL 8, Totalprod : 11.400000, TotalParticipation : 4.802022 pourcents 
+EOL 9, Totalprod : 11.550000, TotalParticipation : 4.865206 pourcents 
+EOL 10, Totalprod : 12.800000, TotalParticipation : 5.391744 pourcents 
+EOL 11, Totalprod : 10.050000, TotalParticipation : 4.233361 pourcents 
+EOL 12, Totalprod : 12.200000, TotalParticipation : 5.139006 pourcents 
+EOL 13, Totalprod : 12.200000, TotalParticipation : 5.139006 pourcents 
+EOL 14, Totalprod : 11.750000, TotalParticipation : 4.949452 pourcents 
+EOL 15, Totalprod : 12.650000, TotalParticipation : 5.328559 pourcents 
+EOL 16, Totalprod : 12.550000, TotalParticipation : 5.286436 pourcents 
+EOL 17, Totalprod : 12.400000, TotalParticipation : 5.223252 pourcents 
+EOL 18, Totalprod : 11.650000, TotalParticipation : 4.907329 pourcents 
+EOL 19, Totalprod : 12.400000, TotalParticipation : 5.223252 pourcents 
+Production totale jour après jour : 
+[ 0.000000  7.550000  14.300000  22.250000  29.950000  37.750000  46.100000  55.850000  63.400000  71.750000  80.100000  87.900000  96.750000  106.750000  115.100000  123.700000  131.750000  139.300000  146.900000  155.100000  162.800000  171.150000  179.750000  188.500000  196.300000  204.100000  211.650000  220.600000  230.100000  237.400000 ] 
